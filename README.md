@@ -2,7 +2,7 @@
 
 ## Background
 
-I’m a first generation college student at the University of California, Davis and I’ve been fortunate enough to have participated in a [couple research experiences](https://alejandroarmas.github.io/assets/AlejandroArmasResume.pdf) and I occasionally [blog](https://alejandroarmas.github.io) when time permits.
+I’m a first generation college student at the University of California, Davis and I’ve been fortunate enough to have participated in a [couple internships](https://alejandroarmas.github.io/assets/AlejandroArmasResume.pdf) and I occasionally [blog](https://alejandroarmas.github.io) when time permits.
 
 ## Interests 
 
